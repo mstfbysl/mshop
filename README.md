@@ -4,7 +4,7 @@ A modern, minimalist e-commerce portfolio project showcasing beautiful home deco
 
 ## 🌐 Live Demo
 
-Visit the live site: [https://monoshop.mustafabaysal.dev](https://monoshop.mustafabaysal.dev)
+Visit the live site: [https://mshop.mustafabaysal.dev](https://mshop.mustafabaysal.dev)
 
 ## 📋 About
 
